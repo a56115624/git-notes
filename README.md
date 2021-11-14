@@ -21,8 +21,8 @@ git remote -v
 
 輸入後應該要看到
 
-origin  https://github.com/linbeta/team_cv_cowork.git (fetch)
-origin  https://github.com/linbeta/team_cv_cowork.git (push)
+origin  https://github.com/a56115624/github_cowork.git (fetch)
+origin  https://github.com/a56115264/github_cowork.git (push)
 
 設定遠端資料夾 一開始會沒東西，把剛剛新建好的頁面其中一行指令貼下來進行設定
 
