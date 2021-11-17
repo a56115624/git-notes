@@ -43,4 +43,5 @@ git push origin mster
 
 
 如何將本地端的調整為githube上最新版的
-git pull origin shane
+git pull origin main
+
