@@ -40,3 +40,7 @@ git remote add origin https://github.com/你的網址-請自行修改.git
 
 
 git push origin mster
+
+
+如何將本地端的調整為githube上最新版的
+git pull origin shane
